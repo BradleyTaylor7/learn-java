@@ -2,7 +2,8 @@
 I want to relearn Java and its fundamentals. I will be going back to the very beginning to relearn Java. I will be following a tutorial by amigoscode to do this.
 
 ## What i will be going over:
-- [ ] First Java App
+- [x] First Java App
+    - Creating a Java project in IntelliJ and printing "First Java App" when running main class
 - [ ] Understanding Java Syntax
 - [ ] Compiling with Javac and Byte Code
 - [ ] Running Java programs from Terminal
