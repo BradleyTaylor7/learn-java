@@ -9,7 +9,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - In terminal I did "cd src/com/bradleytaylor/" then "javac Main.java" which then created the Main.class file. The javac command allows you to compile a java source file into a bytecode class file. The Java Virtual Machine (JVM) understands the bytecode when I want to execute the java file in terminal.
 - [x] Running Java programs from Terminal
     - To execute the Main java file the file must be compiled as shown in the step before. First go into the src file, "cd src" then the execute Main from terminal, "java com.bradleytaylor.Main"  
-- [ ] Compile and Run with IntelliJ
+- [x] Compile and Run with IntelliJ
+    - Much simpler way of compiling and executing a java file. Does exactly the same as the last step but with a click of the "Play Button"
 - [ ] Packages
 - [ ] Comments
 - [ ] Variables
