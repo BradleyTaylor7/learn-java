@@ -1,7 +1,7 @@
 # Learning Java
 I want to relearn Java and its fundamentals. I will be going back to the very beginning to relearn Java. I will be following a tutorial by amigoscode to do this.
 
-## What i will be going over:
+## What I will be going over:
 - [x] First Java App
     - Creating a Java project in IntelliJ and printing "First Java App" when running main class
 - [x] Understanding Java Syntax
@@ -48,7 +48,7 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
 - [ ] Creating Objects
 - [ ] Printing Object Attributes
 
-## What i will be using:
+## What I will be using:
 * IntelliJ IDEA
 * Java 11
   * adoptopenjdk11
