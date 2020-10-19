@@ -11,7 +11,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - To execute the Main java file the file must be compiled as shown in the step before. First go into the src file, "cd src" then the execute Main from terminal, "java com.bradleytaylor.Main"  
 - [x] Compile and Run with IntelliJ
     - Much simpler way of compiling and executing a java file. Does exactly the same as the last step but with a click of the "Play Button"
-- [ ] Packages
+- [x] Packages
+    - A package is a directory structure that allows you to group classes together. Packages can also be nested.
 - [ ] Comments
 - [ ] Variables
 - [ ] Creating Variables
