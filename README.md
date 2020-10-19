@@ -15,8 +15,10 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - A package is a directory structure that allows you to group classes together. Packages can also be nested.
 - [x] Comments
     - Very simple, // allows you to comment a single line and a multi line comment you would use /* and end with */
-- [ ] Variables
-- [ ] Creating Variables
+- [x] Variables
+    - Variables are used to store data values.
+- [x] Creating Variables
+    - Defined variables using int and String data types.
 - [ ] Primitive Data Types
 - [ ] Reference Data Types
 - [ ] Difference Between Primitives and Reference Types
