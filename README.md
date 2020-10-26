@@ -20,6 +20,7 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
 - [x] Creating Variables
     - Defined variables using int and String data types.
 - [ ] Primitive Data Types
+    - ![Primitive Data Types](PrimitiveDataType.png)
 - [ ] Reference Data Types
 - [ ] Difference Between Primitives and Reference Types
 - [ ] The String Class
