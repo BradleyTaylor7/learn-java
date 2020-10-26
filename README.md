@@ -19,7 +19,7 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - Variables are used to store data values.
 - [x] Creating Variables
     - Defined variables using int and String data types.
-- [ ] Primitive Data Types
+- [x] Primitive Data Types
     - Primitive data type specifies the size and type of variable values. Byte, Short, Int and Long allows you to store whole numbers, the only difference is the size in the memory. Float and Double allows you to store decimal numbers, the only differences are the size in memory and decimal digits stored. Boolean allows you to store true or false values. Char allows you to store single characters.
     ![Primitive Data Types](https://github.com/BradleyTaylor7/learn-java/blob/master/PrimitiveDataTypes.png)
 - [ ] Reference Data Types
