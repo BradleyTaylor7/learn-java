@@ -20,9 +20,10 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
 - [x] Creating Variables
     - Defined variables using int and String data types.
 - [x] Primitive Data Types
-    - Primitive data type specifies the size and type of variable values. Byte, Short, Int and Long allows you to store whole numbers, the only difference is the size in the memory. Float and Double allows you to store decimal numbers, the only differences are the size in memory and decimal digits stored. Boolean allows you to store true or false values. Char allows you to store single characters.
+    - Primitive data type specifies the size and type of variable values. Byte, Short, Int and Long allows you to store whole numbers, the only difference is the size in the memory. Furthermore _ can be used to separate longer numbers just like , would do normally. Float and Double allows you to store decimal numbers, the only differences are the size in memory and decimal digits stored. Boolean allows you to store true or false values. Char allows you to store single characters.
     ![Primitive Data Types](https://github.com/BradleyTaylor7/learn-java/blob/master/PrimitiveDataTypes.png)
-- [ ] Reference Data Types
+- [x] Reference Data Types
+    - String is one example of a reference data type which allows you to store a sequence of characters. Lots of built in data types that comes with the JRE. For example, LocalDate.
 - [ ] Difference Between Primitives and Reference Types
 - [ ] The String Class
 - [ ] Packages and Import Keyword
