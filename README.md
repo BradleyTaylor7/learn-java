@@ -42,7 +42,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - AND operator &&, OR operator || and you can flip the value using !.
     ![Logical Operators](https://github.com/BradleyTaylor7/learn-java/blob/master/LogicalOperators.png)
 - [x] If Statements
-- [ ] Ternary Operator
+- [x] Ternary Operator
+    - Using an ternary operator is another way of using an if statement. ? acts as if and : acts as else. 
 - [ ] Switch Statements
 - [ ] Arrays
 - [ ] Arrays and Indexes
