@@ -1,21 +1,19 @@
 package com.bradleytaylor;
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.util.Date;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        String name = new String("Bradley Taylor");
+        Date date = new Date();
+        LocalDate localDate = LocalDate.now();
+        LocalDateTime localDateTime = LocalDateTime.now();
 
-        System.out.println(name.toUpperCase());
-        System.out.println(name.toLowerCase());
-        System.out.println(name.charAt(8));
-        System.out.println(name.contains("Brad"));
-
-        String brad = new String("Brad");
-        System.out.println(name.contains(brad));
-
-        System.out.println(name.equals(brad));
+        System.out.println(date);
+        System.out.println(localDate);
+        System.out.println(localDateTime);
     }
 }
