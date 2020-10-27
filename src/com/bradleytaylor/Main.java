@@ -8,14 +8,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int brother = 21;
-        int sister = 25;
+        boolean isStudent = true;
+        boolean isFullTime = false;
+        boolean isPartTime = true;
 
-        System.out.println(brother > sister);
-        System.out.println(brother >= sister);
-        System.out.println(brother < sister);
-        System.out.println(brother <= sister);
-        System.out.println(brother == sister);
-        System.out.println(brother != sister);
+        System.out.println(isStudent && isFullTime);
+        System.out.println(isStudent || isFullTime);
+        System.out.println((!isStudent && isFullTime) || !isPartTime);
     }
 }
