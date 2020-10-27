@@ -30,7 +30,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
 - [x] The String Class
     - name is a object of type String. Objects have behaviours associated with them. Behaviour methods such as toUpperCase(), toLowerCase(), charAt(), contains(), equals() etc.
 - [x] Packages and Import Keyword
-- [ ] Reserved Keywords
+- [x] Reserved Keywords
+    - Reserved keywords are used for the language itself. For example, package, public, class, static, void etc. These words cannot be used for variable names etc.
 - [ ] Arithmetic Operations
 - [ ] The Math Class
 - [ ] Comparison Operators
