@@ -24,7 +24,9 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     ![Primitive Data Types](https://github.com/BradleyTaylor7/learn-java/blob/master/PrimitiveDataTypes.png)
 - [x] Reference Data Types
     - String is one example of a reference data type which allows you to store a sequence of characters. Lots of built in data types that comes with the JRE. For example, LocalDate.
-- [ ] Difference Between Primitives and Reference Types
+- [x] Difference Between Primitives and Reference Types
+    - int a = 10 and int b = a. a and b is stored in its own memory address. With primitive data type variables are given different memory allocations. When a is modified to equal 100, b will not change as b has a different memory address.
+    - Created Person("Bradley") object with reference Bradley and another reference Taylor = Bradley. Both Bradley and Taylor are pointing to the initial object. If reference Bradley is modified, reference Taylor will also be modified as it point to the same reference. This works the other way around so if you modify Taylor, Bradley will be modified too. 
 - [ ] The String Class
 - [ ] Packages and Import Keyword
 - [ ] Reserved Keywords
