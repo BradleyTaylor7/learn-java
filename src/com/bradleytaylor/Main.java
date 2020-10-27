@@ -6,29 +6,16 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int a = 10;
-        int b = a;
-        a = 100;
-        System.out.println("a = " + a + " and b = " + b);
+        String name = new String("Bradley Taylor");
 
-        Person Bradley = new Person("Bradley");
-        Person Taylor = Bradley;
+        System.out.println(name.toUpperCase());
+        System.out.println(name.toLowerCase());
+        System.out.println(name.charAt(8));
+        System.out.println(name.contains("Brad"));
 
-        System.out.println("Before");
-        System.out.println(Bradley.name + " " +Taylor.name);
+        String brad = new String("Brad");
+        System.out.println(name.contains(brad));
 
-        Bradley.name = "Brad";
-
-        System.out.println("After");
-        System.out.println(Bradley.name + " " +Taylor.name);
-    }
-
-    static class Person {
-
-        String name;
-
-        Person(String name) {
-            this.name = name;
-        }
+        System.out.println(name.equals(brad));
     }
 }
