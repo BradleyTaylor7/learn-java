@@ -34,7 +34,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - Reserved keywords are used for the language itself. For example, package, public, class, static, void etc. These words cannot be used for variable names etc.
 - [x] Arithmetic Operations
     - Addition +, subtraction -, multiplication *, division /, modulus %. BODMAS is also taken into account.
-- [ ] The Math Class
+- [x] The Math Class
+    - The math class contains many mathematical methods such as pow(), min(), max(), abs(), sqrt() etc. Using (int) is called casting to an integer.  
 - [ ] Comparison Operators
 - [ ] Logical Operators
 - [ ] If Statements
