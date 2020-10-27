@@ -38,7 +38,9 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - The math class contains many mathematical methods such as pow(), min(), max(), abs(), sqrt() etc. Using (int) is called casting to an integer.  
 - [x] Comparison Operators
     - Less than <, less than equal to <=, greater than >, greater than equal to >=, equal to ==, not equal to !=. Referred to as boolean expressions as they return true or false.
-- [ ] Logical Operators
+- [x] Logical Operators
+    - AND operator &&, OR operator || and you can flip the value using !.
+    ![Logical Operators](https://github.com/BradleyTaylor7/learn-java/blob/master/LogicalOperators.png)
 - [ ] If Statements
 - [ ] Ternary Operator
 - [ ] Switch Statements
