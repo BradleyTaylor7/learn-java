@@ -32,7 +32,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
 - [x] Packages and Import Keyword
 - [x] Reserved Keywords
     - Reserved keywords are used for the language itself. For example, package, public, class, static, void etc. These words cannot be used for variable names etc.
-- [ ] Arithmetic Operations
+- [x] Arithmetic Operations
+    - Addition +, subtraction -, multiplication *, division /, modulus %. BODMAS is also taken into account.
 - [ ] The Math Class
 - [ ] Comparison Operators
 - [ ] Logical Operators
