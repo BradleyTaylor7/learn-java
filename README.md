@@ -41,7 +41,7 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
 - [x] Logical Operators
     - AND operator &&, OR operator || and you can flip the value using !.
     ![Logical Operators](https://github.com/BradleyTaylor7/learn-java/blob/master/LogicalOperators.png)
-- [ ] If Statements
+- [x] If Statements
 - [ ] Ternary Operator
 - [ ] Switch Statements
 - [ ] Arrays
