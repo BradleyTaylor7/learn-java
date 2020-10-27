@@ -27,7 +27,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
 - [x] Difference Between Primitives and Reference Types
     - int a = 10 and int b = a. a and b is stored in its own memory address. With primitive data type variables are given different memory allocations. When a is modified to equal 100, b will not change as b has a different memory address.
     - Created Person("Bradley") object with reference Bradley and another reference Taylor = Bradley. Both Bradley and Taylor are pointing to the initial object. If reference Bradley is modified, reference Taylor will also be modified as it point to the same reference. This works the other way around so if you modify Taylor, Bradley will be modified too. 
-- [ ] The String Class
+- [x] The String Class
+    - name is a object of type String. Objects have behaviours associated with them. Behaviour methods such as toUpperCase(), toLowerCase(), charAt(), contains(), equals() etc.
 - [ ] Packages and Import Keyword
 - [ ] Reserved Keywords
 - [ ] Arithmetic Operations
