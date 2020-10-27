@@ -8,19 +8,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int five = 5;
-        int two = 2;
-
-        int addition = five + two;
-        int subtraction = five - two;
-        int multiply = five * two;
-        int divide = five / two;
-        int modulus = five % two;
-
-        System.out.println(addition);
-        System.out.println(subtraction);
-        System.out.println(multiply);
-        System.out.println(modulus);
-        System.out.println(divide);
+        System.out.println(Math.abs(-10));
+        System.out.println(Math.min(3, 10));
+        System.out.println(Math.max(3, 10));
+        System.out.println(Math.pow(5, 2));
+        System.out.println((int)Math.pow(5, 2));
+        System.out.println(Math.sqrt(25));
+        System.out.println((int)Math.sqrt(25));
     }
 }
