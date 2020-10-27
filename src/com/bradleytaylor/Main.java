@@ -1,19 +1,18 @@
 package com.bradleytaylor;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.Date;
-
 public class Main {
 
     public static void main(String[] args) {
 
-        boolean isStudent = true;
-        boolean isFullTime = false;
-        boolean isPartTime = true;
+        int age = 22;
 
-        System.out.println(isStudent && isFullTime);
-        System.out.println(isStudent || isFullTime);
-        System.out.println((!isStudent && isFullTime) || !isPartTime);
+        if (age >= 20) {
+            System.out.println("Adult");
+        } else if (age >= 13 && age <= 19){
+            System.out.println("Teenager");
+        } else {
+            System.out.println("Child");
+        }
+
     }
 }
