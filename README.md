@@ -44,7 +44,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
 - [x] If Statements
 - [x] Ternary Operator
     - Using an ternary operator is another way of using an if statement. ? acts as if and : acts as else. 
-- [ ] Switch Statements
+- [x] Switch Statements
+    - Switch statements is a cleaner way to write if statements. If a case meets the argument criteria then break is used so that the rest of the switch statement is not being used.
 - [ ] Arrays
 - [ ] Arrays and Indexes
 - [ ] ++ & --
