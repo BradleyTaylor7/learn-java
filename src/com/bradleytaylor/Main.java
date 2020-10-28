@@ -4,10 +4,21 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int age = 19;
-        String message = age >= 20 ? "Adult" : "Child";
+        String gender = "PREFER not TO say";
 
-        System.out.println(message);
+        switch (gender.toLowerCase()) {
+            case ("female") :
+                System.out.println("Female");
+                break;
+            case ("male") :
+                System.out.println("Male");
+                break;
+            case ("prefer not to say"):
+                System.out.println("Prefer not to say");
+                break;
+            default :
+                System.out.println("Gender unknown");
+        }
 
     }
 }
