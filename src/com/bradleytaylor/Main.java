@@ -1,24 +1,28 @@
 package com.bradleytaylor;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
 
-        String gender = "PREFER not TO say";
+        String [] name = {"Bradley", "Taylor"};
 
-        switch (gender.toLowerCase()) {
-            case ("female") :
-                System.out.println("Female");
-                break;
-            case ("male") :
-                System.out.println("Male");
-                break;
-            case ("prefer not to say"):
-                System.out.println("Prefer not to say");
-                break;
-            default :
-                System.out.println("Gender unknown");
-        }
+        // 1 line to create an array and add values
+        int [] numbers = {1, 2};
+
+        // longer way to create an array and add values
+        int [] numbersOther = new int[2];
+
+        numbersOther[0] = 1;
+        numbersOther[1] = 2;
+
+        System.out.println(Arrays.toString(name));
+        System.out.println(name.length);
+        System.out.println(Arrays.toString(numbers));
+        System.out.println(numbers.length);
+        System.out.println(Arrays.toString(numbersOther));
+        System.out.println(numbersOther.length);
 
     }
 }
