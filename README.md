@@ -48,7 +48,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - Switch statements is a cleaner way to write if statements. If a case meets the argument criteria then break is used so that the rest of the switch statement is not being used.
 - [x] Arrays
     - [] are used to define an array. Size of array is 2 but index starts at 0. When you initialise the size of the array you cannot change it.
-- [ ] Arrays and Indexes
+- [x] Arrays and Indexes
+    - You can retrieve an element from an array by giving the index of that element. Indexes start from 0 not 1.
 - [ ] ++ & --
 - [ ] Enhanced For Loop
 - [ ] Break and Continue
