@@ -54,7 +54,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - ++ is used to increment by 1. -- is used to decrement by 1.
 - [x] Enhanced For Loop
     - An enhanced for loop will not let you access the index of elements in an array. Example, for (String name : names) will loop through the array names and will print every element using name variable.
-- [ ] Break and Continue
+- [x] Break and Continue
+    - Break is used to break out of a loop. Continue will not execute the next line of code if the argument for the loop is true.
 - [ ] While Loop
 - [ ] Do While
 - [ ] Taking User Input 
