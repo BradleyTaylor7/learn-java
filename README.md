@@ -62,7 +62,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - A do while loop will always execute at least once compared to while loop where they do not need to execute if the argument is false.
 - [x] Taking User Input 
     - Scanner class allows you to read user input from the console. 
-- [ ] Methods
+- [x] Methods
+    - Methods only run when they are called. Data can be passed into a method which is known as parameters and is used to perform logic.
 - [ ] Understanding Methods
 - [ ] User Defined Methods
 - [ ] Classes and Objects
