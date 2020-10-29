@@ -7,18 +7,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
-        System.out.println("What is your name?");
+        System.out.println("Hello");
+        String name = "Bradley";
 
-        String name = scan.nextLine();
-        System.out.println("Hello " + name);
-
-        System.out.println("What is your age?");
-
-        int age = scan.nextInt();
-        int year = LocalDate.now().minusYears(age).getYear();
-
-        System.out.println("You was born in " + year);
-
+        System.out.println(name.toUpperCase());
+        System.out.println(name.startsWith("B"));
+        System.out.println(name.endsWith("y"));
     }
 }
