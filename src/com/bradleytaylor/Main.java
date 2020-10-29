@@ -6,9 +6,10 @@ public class Main {
 
         int counter = 0;
 
-        while (counter <= 10) {
+        do {
             System.out.println(counter);
             counter++;
         }
+        while (counter <= 10);
     }
 }
