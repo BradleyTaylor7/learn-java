@@ -60,7 +60,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - A while loop only run while the argument is true. Once the argument is false the loop will end.
 - [x] Do While
     - A do while loop will always execute at least once compared to while loop where they do not need to execute if the argument is false.
-- [ ] Taking User Input 
+- [x] Taking User Input 
+    - Scanner class allows you to read user input from the console. 
 - [ ] Methods
 - [ ] Understanding Methods
 - [ ] User Defined Methods
