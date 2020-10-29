@@ -52,7 +52,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - You can retrieve an element from an array by giving the index of that element. Indexes start from 0 not 1.
 - [x] ++ & --
     - ++ is used to increment by 1. -- is used to decrement by 1.
-- [ ] Enhanced For Loop
+- [x] Enhanced For Loop
+    - An enhanced for loop will not let you access the index of elements in an array. Example, for (String name : names) will loop through the array names and will print every element using name variable.
 - [ ] Break and Continue
 - [ ] While Loop
 - [ ] Do While
