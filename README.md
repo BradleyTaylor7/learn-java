@@ -56,7 +56,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - An enhanced for loop will not let you access the index of elements in an array. Example, for (String name : names) will loop through the array names and will print every element using name variable.
 - [x] Break and Continue
     - Break is used to break out of a loop. Continue will not execute the next line of code if the argument for the loop is true.
-- [ ] While Loop
+- [x] While Loop
+    - A while loop only run while the argument is true. Once the argument is false the loop will end.
 - [ ] Do While
 - [ ] Taking User Input 
 - [ ] Methods
