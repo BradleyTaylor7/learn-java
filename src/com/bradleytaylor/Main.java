@@ -1,15 +1,24 @@
 package com.bradleytaylor;
 
+import java.time.LocalDate;
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
 
-        int counter = 0;
+        Scanner scan = new Scanner(System.in);
+        System.out.println("What is your name?");
 
-        do {
-            System.out.println(counter);
-            counter++;
-        }
-        while (counter <= 10);
+        String name = scan.nextLine();
+        System.out.println("Hello " + name);
+
+        System.out.println("What is your age?");
+
+        int age = scan.nextInt();
+        int year = LocalDate.now().minusYears(age).getYear();
+
+        System.out.println("You was born in " + year);
+
     }
 }
