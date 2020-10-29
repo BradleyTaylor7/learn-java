@@ -50,7 +50,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - [] are used to define an array. Size of array is 2 but index starts at 0. When you initialise the size of the array you cannot change it.
 - [x] Arrays and Indexes
     - You can retrieve an element from an array by giving the index of that element. Indexes start from 0 not 1.
-- [ ] ++ & --
+- [x] ++ & --
+    - ++ is used to increment by 1. -- is used to decrement by 1.
 - [ ] Enhanced For Loop
 - [ ] Break and Continue
 - [ ] While Loop
