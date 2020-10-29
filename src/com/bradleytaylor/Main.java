@@ -6,11 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int [] numbers = {1, 2, 5, 4, 3};
-
-        int four = numbers[3];
-        int three = numbers[numbers.length - 1];
-        System.out.println(four);
-        System.out.println(three);
+        for (int i = 0; i >= 0 && i < 11; i++) {
+            System.out.println(i);
+        }
     }
 }
