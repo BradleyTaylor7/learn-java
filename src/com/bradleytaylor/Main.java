@@ -1,13 +1,25 @@
 package com.bradleytaylor;
 
-import java.util.Arrays;
-
 public class Main {
 
     public static void main(String[] args) {
 
-        for (int i = 0; i >= 0 && i < 11; i++) {
-            System.out.println(i);
+        int[] numbers = {20, 14, 39, 42, 18};
+        String[] names = {"Bradley", "Taylor"};
+
+        for (int i = 0; i < numbers.length; i++) {
+            System.out.println(numbers[i]);
+        }
+
+        // enhanced for loop
+        System.out.println("\nEnhanced for loop");
+        for (int number : numbers) {
+            System.out.println(number);
+        }
+
+        System.out.printf("%n");
+        for (String name : names) {
+            System.out.println(name);
         }
     }
 }
