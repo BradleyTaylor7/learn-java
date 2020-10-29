@@ -58,7 +58,8 @@ I want to relearn Java and its fundamentals. I will be going back to the very be
     - Break is used to break out of a loop. Continue will not execute the next line of code if the argument for the loop is true.
 - [x] While Loop
     - A while loop only run while the argument is true. Once the argument is false the loop will end.
-- [ ] Do While
+- [x] Do While
+    - A do while loop will always execute at least once compared to while loop where they do not need to execute if the argument is false.
 - [ ] Taking User Input 
 - [ ] Methods
 - [ ] Understanding Methods
